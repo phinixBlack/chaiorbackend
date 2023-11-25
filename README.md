@@ -11,7 +11,10 @@ npm i -D nodemon
 npm i -D prettier
 ```
 ## Branch Info   
-**structure**
+
+ 1. **structure**
     - prettier settings and other structure 
+ 1. **database-connection**
+    - connect mongoose and dotenv     
 
  
