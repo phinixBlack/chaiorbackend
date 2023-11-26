@@ -23,7 +23,7 @@ npm i -D prettier
  1. **database-connection**
     - connect mongoose and dotenv     
 1. **util**
-    - this branch have conscept of cors ,cookies-parser
+    - this branch have concept of cors ,cookies-parser
     -  create utils for asynHandler , errosResponse , successResponse
 
  
