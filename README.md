@@ -10,11 +10,20 @@ npm i -D nodemon
 ```bash
 npm i -D prettier
 ```
+   1. cors
+   1. cookie-parser
+   1. [nodejs api error](https://nodejs.org/api/errors.html)
+
+
+
 ## Branch Info   
 
  1. **structure**
     - prettier settings and other structure 
  1. **database-connection**
     - connect mongoose and dotenv     
+1. **util**
+    - this branhc have consept of cors ,cookies-parser
+    -  create utils for asynHandler , errosResponse , successResponse
 
  
