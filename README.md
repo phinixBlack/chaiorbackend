@@ -22,5 +22,8 @@ npm i -D prettier
     - prettier settings and other structure 
  1. **database-connection**
     - connect mongoose and dotenv     
+1. **util**
+    - this branhc have consept of cors ,cookies-parser
+    -  create utils for asynHandler , errosResponse , successResponse
 
  
