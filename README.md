@@ -13,8 +13,9 @@ npm i -D prettier
    1. cors
    1. cookie-parser
    1. [nodejs api error](https://nodejs.org/api/errors.html)
-
-
+   1. [api error code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+   1. [eraser mode structure](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+   1. [mongoo aggregate](https://www.npmjs.com/package/mongoose-aggregate-paginate-v2)
 
 ## Branch Info   
 
