@@ -31,5 +31,7 @@ npm i -D prettier
     -  create utils for asynHandler , errosResponse , successResponse
 1. **multer**
     - create a cloudinary  and a middle ware to handle multer
+1. **apiMaking**
+    - make routes ,controller use of asynHandler
 
  
