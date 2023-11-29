@@ -26,5 +26,7 @@ npm i -D prettier
 1. **util**
     - this branch have concept of cors ,cookies-parser
     -  create utils for asynHandler , errosResponse , successResponse
+1. **apiMaking**
+    - make routes ,controller use of asynHandler
 
  

@@ -14,4 +14,12 @@ app.use(express.urlencoded({ extended: true, limit: "16kb" }))
 app.use(express.static("public"))
 app.use(cookieParser())   // this is use to put cookies in the user browser which can only access by browser
 
+
+
+// route 
+
+import userRouter from "./routes/user.routes.js"
+
+
+app.use("/api/v1/users",userRouter);
 export default app
