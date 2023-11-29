@@ -16,6 +16,7 @@ npm i -D prettier
    1. [api error code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
    1. [eraser mode structure](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
    1. [mongoo aggregate](https://www.npmjs.com/package/mongoose-aggregate-paginate-v2)
+   1. [fs in node](https://nodejs.org/api/fs.html)
 
 ## Branch Info   
 
