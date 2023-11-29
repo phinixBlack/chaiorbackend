@@ -16,6 +16,9 @@ npm i -D prettier
    1. [api error code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
    1. [eraser mode structure](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
    1. [mongoo aggregate](https://www.npmjs.com/package/mongoose-aggregate-paginate-v2)
+   1. [fs in node](https://nodejs.org/api/fs.html)
+   1. multer
+   1. cloudinary
 
 ## Branch Info   
 
@@ -26,5 +29,7 @@ npm i -D prettier
 1. **util**
     - this branch have concept of cors ,cookies-parser
     -  create utils for asynHandler , errosResponse , successResponse
+1. **multer**
+    - create a cloudinary  and a middle ware to handle multer
 
  
